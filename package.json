@@ -1,0 +1,24 @@
+{
+    "name": "test-server",
+    "version": "1.0.0",
+    "description": "test server for wechat miniprogram <logistics-tracking>",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jaycethanks/wechat_miniprogram-logistics_tracking-server.git"
+    },
+    "author": "Jaycethanks",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jaycethanks/wechat_miniprogram-logistics_tracking-server/issues"
+    },
+    "homepage": "https://github.com/jaycethanks/wechat_miniprogram-logistics_tracking-server#readme",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "mysql": "^2.18.1"
+    }
+}
